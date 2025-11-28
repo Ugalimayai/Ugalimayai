@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ugalimayai
 - 👀 I’m interested in Computers mostly
-- 🌱 I’m currently learning cybersecurity
+- 🌱 I’m currently learning data science yay pandas
+- 
 - 
 - 📫 How to reach me ...thats the neat part...you don't
 
