@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Ugalimayai
-- 👀 I’m interested in Data Science, Programming and fun solutions to pesky problems
-- 🌱 I’m currently learning data science
-- Python 
-- 
+- Senior Optimism Enjoyer
+- Data Analyst (Pandas, Numpy)
+- Python, R, HTML, CSS
 
 
 <!---
