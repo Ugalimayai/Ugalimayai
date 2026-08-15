@@ -1,6 +1,6 @@
 - Senior Optimism Enjoyer
 - Data Analyst (Pandas, Numpy)
-- Python, R, HTML, CSS
+- Python, R, HTML, CSS, C
 
 
 <!---
